@@ -1,1 +1,67 @@
- 
+{
+    "till_date_format" : {
+        "ru" : "до %@",
+        "en" : "till %@",
+        "kz" : "до %@"
+    },
+    "instrumental_case_month_name1" : {
+        "ru" : "января",
+        "en" : "january",
+        "kz" : "января"
+    },
+    "instrumental_case_month_name2" : {
+        "ru" : "февраля",
+        "en" : "february",
+        "kz" : "февраля"
+    },
+    "instrumental_case_month_name3" : {
+        "ru" : "марта",
+        "en" : "march",
+        "kz" : "марта"
+    },
+    "instrumental_case_month_name4" : {
+        "ru" : "апреля",
+        "en" : "april",
+        "kz" : "апреля"
+    },
+    "instrumental_case_month_name5" : {
+        "ru" : "мая",
+        "en" : "may",
+        "kz" : "мая"
+    },
+    "instrumental_case_month_name6" : {
+        "ru" : "июня",
+        "en" : "june",
+        "kz" : "июня"
+    },
+    "instrumental_case_month_name7" : {
+        "ru" : "июля",
+        "en" : "july",
+        "kz" : "июля"
+    },
+    "instrumental_case_month_name8" : {
+        "ru" : "августа",
+        "en" : "august",
+        "kz" : "августа"
+    },
+    "instrumental_case_month_name9" : {
+        "ru" : "сентября",
+        "en" : "september",
+        "kz" : "сентября"
+    },
+    "instrumental_case_month_name10" : {
+        "ru" : "октября",
+        "en" : "october",
+        "kz" : "октября"
+    },
+    "instrumental_case_month_name11" : {
+        "ru" : "ноября",
+        "en" : "november",
+        "kz" : "ноября"
+    },
+    "instrumental_case_month_name12" : {
+        "ru" : "декабря",
+        "en" : "december",
+        "kz" : "декабря"
+    }
+}

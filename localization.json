@@ -1,4 +1,9 @@
 {
+    "log_in" : {
+        "ru" : "Войти",
+        "en" : "Log in",
+        "kz" : "Войти"
+    },
     "instrumental_case_month_name1" : {
         "ru" : "января",
         "en" : "january",

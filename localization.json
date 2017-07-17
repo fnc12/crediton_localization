@@ -1,4 +1,19 @@
 {
+    "append_money" : {
+        "ru" : "Пополнить",
+        "en" : "Append",
+        "kz" : "Пополнить"
+    },
+    "balance" : {
+        "ru" : "Мой счет",
+        "en" : "Balance",
+        "kz" : "Мой счет"
+    },
+    "error" : {
+        "ru" : "Ошибка",
+        "en" : "Error",
+        "kz" : "Қате"
+    },
     "i_loan" : {
         "ru" : "я занимаю",
         "en" : "I loan",
@@ -109,6 +124,26 @@
         "en" : "Одобрение кредита за 60 секунд",
         "kz" : "Одобрение кредита за 60 секунд"
     },
+    "profile_history" : {
+        "ru" : "История",
+        "en" : "History",
+        "kz" : "Тарихы"
+    },
+    "profile_form" : {
+        "ru" : "Форма",
+        "en" : "Form",
+        "kz" : "Форма"
+    },
+    "profile_my_cards" : {
+        "ru" : "Мои карты",
+        "en" : "My cards",
+        "kz" : "Мои карты"
+    },
+    "profile_settings" : {
+        "ru" : "Настройки",
+        "en" : "Settings",
+        "kz" : "Баптаулар"
+    },
     "register_verb" : {
         "ru" : "Зарегистрировться",
         "en" : "Register",
@@ -123,5 +158,10 @@
         "ru" : "до %@",
         "en" : "till %@",
         "kz" : "до %@"
+    },
+    "withdraw" : {
+        "ru" : "Вывести",
+        "en" : "Withdraw",
+        "kz" : "Вывести"
     }
 }

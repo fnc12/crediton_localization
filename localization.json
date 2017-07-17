@@ -14,6 +14,11 @@
         "en" : "Error",
         "kz" : "Қате"
     },
+    "email" : {
+        "ru" : "E-mail",
+        "en" : "E-mail",
+        "kz" : "E-mail"
+    },
     "i_loan" : {
         "ru" : "я занимаю",
         "en" : "I loan",
@@ -23,6 +28,11 @@
         "ru" : "Войти",
         "en" : "Log in",
         "kz" : "Войти"
+    },
+    "logout_from_account" : {
+        "ru" : "Logout from account",
+        "en" : "Logout from account",
+        "kz" : "Logout from account"
     },
     "instrumental_case_month_name1" : {
         "ru" : "января",
@@ -124,6 +134,26 @@
         "en" : "Одобрение кредита за 60 секунд",
         "kz" : "Одобрение кредита за 60 секунд"
     },
+    "security" : {
+        "ru" : "Безопасность",
+        "en" : "Security",
+        "kz" : "Безопасность"
+    },
+    "settings_email_info" : {
+        "ru" : "Required for receive a copy of the contract",
+        "en" : "Required for receive a copy of the contract",
+        "kz" : "Required for receive a copy of the contract"
+    },
+    "password" : {
+        "ru" : "Пароль",
+        "en" : "Password",
+        "kz" : "Пароль"
+    },
+    "pin" : {
+        "ru" : "Pin",
+        "en" : "Pin",
+        "kz" : "Pin"
+    },
     "profile_history" : {
         "ru" : "История",
         "en" : "History",
@@ -148,11 +178,6 @@
         "ru" : "Зарегистрировться",
         "en" : "Register",
         "kz" : "Зарегистрировться"
-    },
-    "password" : {
-        "ru" : "Пароль",
-        "en" : "Password",
-        "kz" : "Пароль"
     },
     "till_date_format" : {
         "ru" : "до %@",

@@ -9,6 +9,31 @@
         "en" : "Balance",
         "kz" : "Мой счет"
     },
+    "change_password" : {
+        "ru" : "Change password",
+        "en" : "Change password",
+        "kz" : "Change password"
+    },
+    "change_password_hint" : {
+        "ru" : "Your password must be at least 6 characters long, be of mixed case and also contain a digit or symbol.",
+        "en" : "Your password must be at least 6 characters long, be of mixed case and also contain a digit or symbol.",
+        "kz" : "Your password must be at least 6 characters long, be of mixed case and also contain a digit or symbol."
+    },
+    "change_pin" : {
+        "ru" : "Change pin",
+        "en" : "Change pin",
+        "kz" : "Change pin"
+    },
+    "current_password" : {
+        "ru" : "Current password",
+        "en" : "Current password",
+        "kz" : "Current password"
+    },
+    "current_pin" : {
+        "ru" : "Current pin",
+        "en" : "Current pin",
+        "kz" : "Current pin"
+    },
     "error" : {
         "ru" : "Ошибка",
         "en" : "Error",
@@ -134,6 +159,21 @@
         "en" : "Одобрение кредита за 60 секунд",
         "kz" : "Одобрение кредита за 60 секунд"
     },
+    "new_password" : {
+        "ru" : "New password",
+        "en" : "New password",
+        "kz" : "New password"
+    },
+    "new_pin" : {
+        "ru" : "New pin",
+        "en" : "New pin",
+        "kz" : "New pin"
+    },
+    "save" : {
+        "ru" : "Save",
+        "en" : "Save",
+        "kz" : "Save"
+    },
     "security" : {
         "ru" : "Безопасность",
         "en" : "Security",
@@ -153,6 +193,11 @@
         "ru" : "Pin",
         "en" : "Pin",
         "kz" : "Pin"
+    },
+    "pin_hint" : {
+        "ru" : "Pin is needed for password recovery, please remember it well",
+        "en" : "Pin is needed for password recovery, please remember it well",
+        "kz" : "Pin is needed for password recovery, please remember it well"
     },
     "profile_history" : {
         "ru" : "История",

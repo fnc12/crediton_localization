@@ -4,6 +4,11 @@
         "en" : "Append",
         "kz" : "Пополнить"
     },
+    "authorization" : {
+        "ru" : "Authorization",
+        "en" : "Authorization",
+        "kz" : "Authorization"
+    },
     "balance" : {
         "ru" : "Мой счет",
         "en" : "Balance",
@@ -34,6 +39,11 @@
         "en" : "Current pin",
         "kz" : "Current pin"
     },
+    "edit" : {
+        "ru" : "Edit",
+        "en" : "Edit",
+        "kz" : "Edit"
+    },
     "error" : {
         "ru" : "Ошибка",
         "en" : "Error",
@@ -49,6 +59,11 @@
         "en" : "I loan",
         "kz" : "я занимаю"
     },
+    "loans" : {
+        "ru" : "Loans",
+        "en" : "Loans",
+        "kz" : "Loans"
+    },
     "log_in" : {
         "ru" : "Войти",
         "en" : "Log in",
@@ -58,6 +73,11 @@
         "ru" : "Logout from account",
         "en" : "Logout from account",
         "kz" : "Logout from account"
+    },
+    "history" : {
+        "ru" : "History",
+        "en" : "History",
+        "kz" : "History"
     },
     "instrumental_case_month_name1" : {
         "ru" : "января",
@@ -159,6 +179,11 @@
         "en" : "Одобрение кредита за 60 секунд",
         "kz" : "Одобрение кредита за 60 секунд"
     },
+    "next" : {
+        "ru" : "Продолжить",
+        "en" : "Next",
+        "kz" : "Продолжить"
+    },
     "new_password" : {
         "ru" : "New password",
         "en" : "New password",
@@ -189,6 +214,11 @@
         "en" : "Password",
         "kz" : "Пароль"
     },
+    "password_hint" : {
+        "ru" : "The password must be at least 6 characters long,\nhow one capital letter and number",
+        "en" : "The password must be at least 6 characters long,\nhow one capital letter and number",
+        "kz" : "The password must be at least 6 characters long,\nhow one capital letter and number"
+    },
     "pin" : {
         "ru" : "Pin",
         "en" : "Pin",
@@ -198,6 +228,16 @@
         "ru" : "Pin is needed for password recovery, please remember it well",
         "en" : "Pin is needed for password recovery, please remember it well",
         "kz" : "Pin is needed for password recovery, please remember it well"
+    },
+    "pin_hint_registration" : {
+        "ru" : "Pin is needed for password recovery, \nplease remember it well",
+        "en" : "Pin is needed for password recovery, \nplease remember it well",
+        "kz" : "Pin is needed for password recovery, \nplease remember it well"
+    },
+    "phone_number" : {
+        "ru" : "Phone number",
+        "en" : "Phone number",
+        "kz" : "Phone number"
     },
     "profile_history" : {
         "ru" : "История",
@@ -224,10 +264,20 @@
         "en" : "Register",
         "kz" : "Зарегистрировться"
     },
+    "registration" : {
+        "ru" : "Registration",
+        "en" : "Registration",
+        "kz" : "Registration"
+    },
     "till_date_format" : {
         "ru" : "до %@",
         "en" : "till %@",
         "kz" : "до %@"
+    },
+    "wallet" : {
+        "ru" : "Wallet",
+        "en" : "Wallet",
+        "kz" : "Wallet"
     },
     "withdraw" : {
         "ru" : "Вывести",

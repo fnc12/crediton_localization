@@ -1,4 +1,9 @@
 {
+    "address" : {
+        "ru" : "Адрес",
+        "en" : "Address",
+        "kz" : "Address"
+    },
     "append_money" : {
         "ru" : "Пополнить",
         "en" : "Append",
@@ -13,6 +18,16 @@
         "ru" : "Мой счет",
         "en" : "Balance",
         "kz" : "Мой счет"
+    },
+    "bind_card" : {
+        "ru" : "Привязать карту",
+        "en" : "Привязать карту",
+        "kz" : "Привязать карту"
+    },
+    "city" : {
+        "ru" : "City",
+        "en" : "City",
+        "kz" : "City"
     },
     "change_password" : {
         "ru" : "Change password",
@@ -29,6 +44,11 @@
         "en" : "Change pin",
         "kz" : "Change pin"
     },
+    "children" : {
+        "ru" : "Дети",
+        "en" : "Дети",
+        "kz" : "Дети"
+    },
     "current_password" : {
         "ru" : "Current password",
         "en" : "Current password",
@@ -39,8 +59,13 @@
         "en" : "Current pin",
         "kz" : "Current pin"
     },
+    "delete_card_question" : {
+        "ru" : "Удалить карту?",
+        "en" : "Delete the card?",
+        "kz" : "Delete the card?"
+    },
     "edit" : {
-        "ru" : "Edit",
+        "ru" : "Редактировать",
         "en" : "Edit",
         "kz" : "Edit"
     },
@@ -54,15 +79,45 @@
         "en" : "E-mail",
         "kz" : "E-mail"
     },
+    "family_status" : {
+        "ru" : "Семейное положение",
+        "en" : "Семейное положение",
+        "kz" : "Семейное положение"
+    },
+    "gender" : {
+        "ru" : "Пол",
+        "en" : "Sex",
+        "kz" : "Sex"
+    },
+    "enable_if_you_have_a_job" : {
+        "ru" : "Активируйте, если у вас есть работа",
+        "en" : "Активируйте, если у вас есть работа",
+        "kz" : "Активируйте, если у вас есть работа"
+    },
+    "iin" : {
+        "ru" : "ИИН",
+        "en" : "ИИН",
+        "kz" : "ИИН"
+    },
     "i_loan" : {
         "ru" : "я занимаю",
         "en" : "I loan",
         "kz" : "я занимаю"
     },
+    "last_and_first_name" : {
+        "ru" : "Имя Фамилия",
+        "en" : "Name",
+        "kz" : "Аты жөні"
+    },
     "loans" : {
         "ru" : "Loans",
         "en" : "Loans",
         "kz" : "Loans"
+    },
+    "location" : {
+        "ru" : "Местоположение",
+        "en" : "Location",
+        "kz" : "Location"
     },
     "log_in" : {
         "ru" : "Войти",
@@ -78,6 +133,11 @@
         "ru" : "History",
         "en" : "History",
         "kz" : "History"
+    },
+    "i_have_a_job" : {
+        "ru" : "Я работаю",
+        "en" : "I have a job",
+        "kz" : "I have a job"
     },
     "instrumental_case_month_name1" : {
         "ru" : "января",
@@ -139,6 +199,16 @@
         "en" : "december",
         "kz" : "декабря"
     },
+    "job_place" : {
+        "ru" : "Место работы",
+        "en" : "Место работы",
+        "kz" : "Место работы"
+    },
+    "job_phone" : {
+        "ru" : "Рабочий телефон",
+        "en" : "Job phone",
+        "kz" : "Job phone"
+    },
     "forgot_password_question" : {
         "ru" : "Забыли пароль?",
         "en" : "Forgot password?",
@@ -148,6 +218,11 @@
         "ru" : "Взять",
         "en" : "Obtain",
         "kz" : "Взять"
+    },
+    "occupation" : {
+        "ru" : "Занятость",
+        "en" : "Occupation",
+        "kz" : "Occupation"
     },
     "on_boarding1" : {
         "ru" : "Доступность",
@@ -179,6 +254,11 @@
         "en" : "Одобрение кредита за 60 секунд",
         "kz" : "Одобрение кредита за 60 секунд"
     },
+    "oops_no_cards" : {
+        "ru" : "Ой, тут нет карт :-(",
+        "en" : "Ой, тут нет карт :-(",
+        "kz" : "Ой, тут нет карт :-("
+    },
     "next" : {
         "ru" : "Продолжить",
         "en" : "Next",
@@ -193,6 +273,21 @@
         "ru" : "New pin",
         "en" : "New pin",
         "kz" : "New pin"
+    },
+    "no" : {
+        "ru" : "Нет",
+        "en" : "No",
+        "kz" : "Нет"
+    },
+    "no_card_description" : {
+        "ru" : "Не беда! Просто привяжите\nсвою банковскую карту\nдля ввода/вывода денег",
+        "en" : "Не беда! Просто привяжите\nсвою банковскую карту\nдля ввода/вывода денег",
+        "kz" : "Не беда! Просто привяжите\nсвою банковскую карту\nдля ввода/вывода денег"
+    },
+    "salary" : {
+        "ru" : "Заработная плата",
+        "en" : "Salary",
+        "kz" : "Salary"
     },
     "save" : {
         "ru" : "Save",
@@ -218,6 +313,11 @@
         "ru" : "The password must be at least 6 characters long,\nhow one capital letter and number",
         "en" : "The password must be at least 6 characters long,\nhow one capital letter and number",
         "kz" : "The password must be at least 6 characters long,\nhow one capital letter and number"
+    },
+    "personal_data" : {
+        "ru" : "Личная информация",
+        "en" : "Personal info",
+        "kz" : "Personal info"
     },
     "pin" : {
         "ru" : "Pin",
@@ -273,6 +373,16 @@
         "ru" : "до %@",
         "en" : "till %@",
         "kz" : "до %@"
+    },
+    "user_form" : {
+        "ru" : "Анкета",
+        "en" : "User form",
+        "kz" : "Анкета"
+    },
+    "yes" : {
+        "ru" : "Да",
+        "en" : "Yes",
+        "kz" : "Да"
     },
     "wallet" : {
         "ru" : "Wallet",

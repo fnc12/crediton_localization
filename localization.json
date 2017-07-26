@@ -9,6 +9,11 @@
         "en" : "Append",
         "kz" : "Пополнить"
     },
+    "apt_number" : {
+        "ru" : "Номер квартиры",
+        "en" : "Apt",
+        "kz" : "Номер квартиры"
+    },
     "authorization" : {
         "ru" : "Authorization",
         "en" : "Authorization",
@@ -24,10 +29,25 @@
         "en" : "Привязать карту",
         "kz" : "Привязать карту"
     },
+    "cancel" : {
+        "ru" : "Отмена",
+        "en" : "Cancel",
+        "kz" : "Отмена"
+    },
+    "category" : {
+        "ru" : "Категория",
+        "en" : "Category",
+        "kz" : "Категория"
+    },
     "city" : {
-        "ru" : "City",
+        "ru" : "Город",
         "en" : "City",
         "kz" : "City"
+    },
+    "city_search_hint" : {
+        "ru" : "Начните писать название вашего города в строку поиска, потом выберите ваш город из предложенного списка ниже.",
+        "en" : "Начните писать название вашего города в строку поиска, потом выберите ваш город из предложенного списка ниже.",
+        "kz" : "Начните писать название вашего города в строку поиска, потом выберите ваш город из предложенного списка ниже."
     },
     "change_password" : {
         "ru" : "Change password",
@@ -64,10 +84,30 @@
         "en" : "Delete the card?",
         "kz" : "Delete the card?"
     },
+    "divorced" : {
+        "ru" : "В разводе",
+        "en" : "Divorced",
+        "kz" : "divorced"
+    },
     "edit" : {
         "ru" : "Редактировать",
         "en" : "Edit",
         "kz" : "Edit"
+    },
+    "edit_firstname" : {
+        "ru" : "Редактировать имя",
+        "en" : "Edit first name",
+        "kz" : "Edit first name"
+    },
+    "edit_lastname" : {
+        "ru" : "Редактировать фамилию",
+        "en" : "Edit last name",
+        "kz" : "Edit last name"
+    },
+    "edit_middlename" : {
+        "ru" : "Редактировать отчество",
+        "en" : "Edit middle name",
+        "kz" : "Edit middle name"
     },
     "error" : {
         "ru" : "Ошибка",
@@ -99,13 +139,8 @@
         "en" : "ИИН",
         "kz" : "ИИН"
     },
-    "i_loan" : {
-        "ru" : "я занимаю",
-        "en" : "I loan",
-        "kz" : "я занимаю"
-    },
     "last_and_first_name" : {
-        "ru" : "Имя Фамилия",
+        "ru" : "ФИО",
         "en" : "Name",
         "kz" : "Аты жөні"
     },
@@ -129,15 +164,80 @@
         "en" : "Logout from account",
         "kz" : "Logout from account"
     },
+    "higher" : {
+        "ru" : "Высшее",
+        "en" : "Higher",
+        "kz" : "Высшее"
+    },
     "history" : {
         "ru" : "History",
         "en" : "History",
         "kz" : "History"
     },
+    "home_number" : {
+        "ru" : "Номер дома",
+        "en" : "Home number",
+        "kz" : "Номер дома"
+    },
+    "job_position" : {
+        "ru" : "Должность",
+        "en" : "Employment position",
+        "kz" : "Должность"
+    },
     "i_have_a_job" : {
         "ru" : "Я работаю",
         "en" : "I have a job",
         "kz" : "I have a job"
+    },
+    "i_loan" : {
+        "ru" : "я занимаю",
+        "en" : "I loan",
+        "kz" : "я занимаю"
+    },
+    "input_address" : {
+        "ru" : "Введите адрес",
+        "en" : "Input address",
+        "kz" : "Введите адрес"
+    },
+    "input_category" : {
+        "ru" : "Введите категорию",
+        "en" : "Input category",
+        "kz" : "Введите категорию"
+    },
+    "input_children_amount" : {
+        "ru" : "Введите количество детей",
+        "en" : "Input children amount",
+        "kz" : "Введите количество детей"
+    },
+    "input_employment_position" : {
+        "ru" : "Введите должность",
+        "en" : "Input employment position",
+        "kz" : "Введите должность"
+    },
+    "input_employer_name" : {
+        "ru" : "Введите название компании",
+        "en" : "Input employer name",
+        "kz" : "Введите название компании"
+    },
+    "input_firstname" : {
+        "ru" : "Введите имя",
+        "en" : "Input first name",
+        "kz" : "Введите имя"
+    },
+    "input_lastname" : {
+        "ru" : "Введите фамилию",
+        "en" : "Input last name",
+        "kz" : "Введите фамилию"
+    },
+    "input_middlename" : {
+        "ru" : "Введите отчество",
+        "en" : "Input middle name",
+        "kz" : "Введите отчество"
+    },
+    "input_salary" : {
+        "ru" : "Введите зарплату",
+        "en" : "Input salary",
+        "kz" : "Введите зарплату"
     },
     "instrumental_case_month_name1" : {
         "ru" : "января",
@@ -209,10 +309,65 @@
         "en" : "Job phone",
         "kz" : "Job phone"
     },
+    "female" : {
+        "ru" : "Женский",
+        "en" : "Female",
+        "kz" : "Женский"
+    },
     "forgot_password_question" : {
         "ru" : "Забыли пароль?",
         "en" : "Forgot password?",
         "kz" : "Забыли пароль?"
+    },
+    "male" : {
+        "ru" : "Мужской",
+        "en" : "Male",
+        "kz" : "Мужской"
+    },
+    "married" : {
+        "ru" : "Женат/Замужем",
+        "en" : "Married",
+        "kz" : "Married"
+    },
+    "next" : {
+        "ru" : "Продолжить",
+        "en" : "Next",
+        "kz" : "Продолжить"
+    },
+    "new_password" : {
+        "ru" : "New password",
+        "en" : "New password",
+        "kz" : "New password"
+    },
+    "new_pin" : {
+        "ru" : "New pin",
+        "en" : "New pin",
+        "kz" : "New pin"
+    },
+    "no" : {
+        "ru" : "Нет",
+        "en" : "No",
+        "kz" : "Нет"
+    },
+    "no_card_description" : {
+        "ru" : "Не беда! Просто привяжите\nсвою банковскую карту\nдля ввода/вывода денег",
+        "en" : "Не беда! Просто привяжите\nсвою банковскую карту\nдля ввода/вывода денег",
+        "kz" : "Не беда! Просто привяжите\nсвою банковскую карту\nдля ввода/вывода денег"
+    },
+    "not_specified_female" : {
+        "ru" : "(не указана)",
+        "en" : "(not specified)",
+        "kz" : "(не указана)"
+    },
+    "not_specified_male" : {
+        "ru" : "(не указан)",
+        "en" : "(not specified)",
+        "kz" : "(не указан)"
+    },
+    "not_specified_middle" : {
+        "ru" : "(не указано)",
+        "en" : "(not specified)",
+        "kz" : "(не указано)"
     },
     "obtain" : {
         "ru" : "Взять",
@@ -259,31 +414,6 @@
         "en" : "Ой, тут нет карт :-(",
         "kz" : "Ой, тут нет карт :-("
     },
-    "next" : {
-        "ru" : "Продолжить",
-        "en" : "Next",
-        "kz" : "Продолжить"
-    },
-    "new_password" : {
-        "ru" : "New password",
-        "en" : "New password",
-        "kz" : "New password"
-    },
-    "new_pin" : {
-        "ru" : "New pin",
-        "en" : "New pin",
-        "kz" : "New pin"
-    },
-    "no" : {
-        "ru" : "Нет",
-        "en" : "No",
-        "kz" : "Нет"
-    },
-    "no_card_description" : {
-        "ru" : "Не беда! Просто привяжите\nсвою банковскую карту\nдля ввода/вывода денег",
-        "en" : "Не беда! Просто привяжите\nсвою банковскую карту\nдля ввода/вывода денег",
-        "kz" : "Не беда! Просто привяжите\nсвою банковскую карту\nдля ввода/вывода денег"
-    },
     "salary" : {
         "ru" : "Заработная плата",
         "en" : "Salary",
@@ -294,15 +424,50 @@
         "en" : "Save",
         "kz" : "Save"
     },
+    "secondary" : {
+        "ru" : "Среднее",
+        "en" : "Secondary",
+        "kz" : "Среднее"
+    },
     "security" : {
         "ru" : "Безопасность",
         "en" : "Security",
         "kz" : "Безопасность"
     },
+    "select_education" : {
+        "ru" : "Безопасность",
+        "en" : "Security",
+        "kz" : "Безопасность"
+    },
+    "select_gender" : {
+        "ru" : "Выберите пол",
+        "en" : "Select gender",
+        "kz" : "Выберите пол"
+    },
+    "select_marital_status" : {
+        "ru" : "Выберите семейное положение",
+        "en" : "Select marital status",
+        "kz" : "Select marital status"
+    },
     "settings_email_info" : {
         "ru" : "Required for receive a copy of the contract",
         "en" : "Required for receive a copy of the contract",
         "kz" : "Required for receive a copy of the contract"
+    },
+    "single" : {
+        "ru" : "Нет пары",
+        "en" : "Single",
+        "kz" : "Single"
+    },
+    "specialized_secondary" : {
+        "ru" : "Среднее специальное",
+        "en" : "Specialized secondary",
+        "kz" : "Среднее специальное"
+    },
+    "street" : {
+        "ru" : "Улица",
+        "en" : "Street",
+        "kz" : "Улица"
     },
     "password" : {
         "ru" : "Пароль",
@@ -339,6 +504,11 @@
         "en" : "Phone number",
         "kz" : "Phone number"
     },
+    "primary" : {
+        "ru" : "Начальное",
+        "en" : "Primary",
+        "kz" : "Начальное"
+    },
     "profile_history" : {
         "ru" : "История",
         "en" : "History",
@@ -358,6 +528,11 @@
         "ru" : "Настройки",
         "en" : "Settings",
         "kz" : "Баптаулар"
+    },
+    "regions" : {
+        "ru" : "Регионы",
+        "en" : "Regions",
+        "kz" : "Regions"
     },
     "register_verb" : {
         "ru" : "Зарегистрировться",
@@ -388,6 +563,11 @@
         "ru" : "Wallet",
         "en" : "Wallet",
         "kz" : "Wallet"
+    },
+    "widower" : {
+        "ru" : "Вдова/Вдовец",
+        "en" : "Widower",
+        "kz" : "Widower"
     },
     "withdraw" : {
         "ru" : "Вывести",

@@ -29,6 +29,11 @@
         "en" : "Привязать карту",
         "kz" : "Привязать карту"
     },
+    "call_support" : {
+        "ru" : "Позвонить в поддержку",
+        "en" : "Call support",
+        "kz" : "Call support"
+    },
     "cancel" : {
         "ru" : "Отмена",
         "en" : "Cancel",
@@ -88,6 +93,11 @@
         "ru" : "В разводе",
         "en" : "Divorced",
         "kz" : "divorced"
+    },
+    "done" : {
+        "ru" : "Готово",
+        "en" : "Done",
+        "kz" : "Готово"
     },
     "edit" : {
         "ru" : "Редактировать",
@@ -314,10 +324,25 @@
         "en" : "Female",
         "kz" : "Женский"
     },
+    "forgot_password_hint" : {
+        "ru" : "Для востановления пароля введите ваш номер телефона и пин код",
+        "en" : "Для востановления пароля введите ваш номер телефона и пин код",
+        "kz" : "Для востановления пароля введите ваш номер телефона и пин код"
+    },
+    "forgot_password" : {
+        "ru" : "Забыли пароль",
+        "en" : "Forgot password",
+        "kz" : "Забыли пароль"
+    },
     "forgot_password_question" : {
         "ru" : "Забыли пароль?",
         "en" : "Forgot password?",
         "kz" : "Забыли пароль?"
+    },
+    "forgot_pin_code" : {
+        "ru" : "Забыли пин-код?",
+        "en" : "Forgot Pin code",
+        "kz" : "Забыли пин-код?"
     },
     "male" : {
         "ru" : "Мужской",
@@ -474,6 +499,11 @@
         "en" : "Password",
         "kz" : "Пароль"
     },
+    "password_has_been_changed" : {
+        "ru" : "Пароль изменен!",
+        "en" : "Password has been changed!",
+        "kz" : "Password has been changed!"
+    },
     "password_hint" : {
         "ru" : "The password must be at least 6 characters long,\nhow one capital letter and number",
         "en" : "The password must be at least 6 characters long,\nhow one capital letter and number",
@@ -543,6 +573,21 @@
         "ru" : "Registration",
         "en" : "Registration",
         "kz" : "Registration"
+    },
+    "restore_password" : {
+        "ru" : "Восстановить пароль",
+        "en" : "Restore password",
+        "kz" : "Restore password"
+    },
+    "restore_pincode" : {
+        "ru" : "Восстановить пин-код",
+        "en" : "Restore pincode",
+        "kz" : "Restore pincode"
+    },
+    "respore_pincode_instructions" : {
+        "ru" : "Для восстановления пин-код пощвонить на номер 2590",
+        "en" : "For restore Pincode you need call for number 2590",
+        "kz" : "Для восстановления пин-код пощвонить на номер 2590"
     },
     "till_date_format" : {
         "ru" : "до %@",

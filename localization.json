@@ -519,6 +519,11 @@
         "en" : "Pin",
         "kz" : "Pin"
     },
+    "pin_has_been_changed" : {
+        "ru" : "Пин изменен!",
+        "en" : "Pin has been changed!",
+        "kz" : "Pin has been changed!"
+    },
     "pin_hint" : {
         "ru" : "Pin is needed for password recovery, please remember it well",
         "en" : "Pin is needed for password recovery, please remember it well",

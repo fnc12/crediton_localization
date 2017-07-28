@@ -360,9 +360,14 @@
         "kz" : "Продолжить"
     },
     "new_password" : {
-        "ru" : "New password",
+        "ru" : "Новый пароль",
         "en" : "New password",
         "kz" : "New password"
+    },
+    "new_password_again" : {
+        "ru" : "Новый пароль опять",
+        "en" : "New password again",
+        "kz" : "New password again"
     },
     "new_pin" : {
         "ru" : "New pin",

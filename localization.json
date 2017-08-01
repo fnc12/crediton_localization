@@ -79,6 +79,11 @@
         "en" : "Дети",
         "kz" : "Дети"
     },
+    "children_amount" : {
+        "ru" : "Кол-во детей",
+        "en" : "Children amount",
+        "kz" : "Кол-во детей"
+    },
     "confirm" : {
         "ru" : "Подтвердить",
         "en" : "Confirm",
@@ -93,6 +98,11 @@
         "ru" : "Current pin",
         "en" : "Current pin",
         "kz" : "Current pin"
+    },
+    "days" : {
+        "ru" : "дней",
+        "en" : "days",
+        "kz" : "days"
     },
     "delete_card_question" : {
         "ru" : "Удалить карту?",
@@ -143,6 +153,11 @@
         "ru" : "Семейное положение",
         "en" : "Семейное положение",
         "kz" : "Семейное положение"
+    },
+    "fio" : {
+        "ru" : "Фамилия Имя",
+        "en" : "First name last name",
+        "kz" : "First name last name"
     },
     "gender" : {
         "ru" : "Пол",
@@ -628,6 +643,11 @@
         "ru" : "Да",
         "en" : "Yes",
         "kz" : "Да"
+    },
+    "you_take" : {
+        "ru" : "Вы берёте",
+        "en" : "You take",
+        "kz" : "You take"
     },
     "wallet" : {
         "ru" : "Wallet",

@@ -44,6 +44,11 @@
         "en" : "Cancel",
         "kz" : "Отмена"
     },
+    "cancel_loan" : {
+        "ru" : "Отказаться от займа",
+        "en" : "Cancel loan",
+        "kz" : "Отказаться от займа"
+    },
     "category" : {
         "ru" : "Категория",
         "en" : "Category",
@@ -83,6 +88,11 @@
         "ru" : "Кол-во детей",
         "en" : "Children amount",
         "kz" : "Кол-во детей"
+    },
+    "code" : {
+        "ru" : "Код",
+        "en" : "Code",
+        "kz" : "Код"
     },
     "confirm" : {
         "ru" : "Подтвердить",
@@ -564,6 +574,11 @@
         "en" : "Pin is needed for password recovery, \nplease remember it well",
         "kz" : "Pin is needed for password recovery, \nplease remember it well"
     },
+    "please_wait" : {
+        "ru" : "Пожалуйста подождите",
+        "en" : "Please wait",
+        "kz" : "Пожалуйста подождите"
+    },
     "phone_number" : {
         "ru" : "Phone number",
         "en" : "Phone number",
@@ -653,6 +668,11 @@
         "ru" : "Wallet",
         "en" : "Wallet",
         "kz" : "Wallet"
+    },
+    "we_are_processing_your_data" : {
+        "ru" : "Мы обрабатываем ваши данные.",
+        "en" : "Мы обрабатываем ваши данные.",
+        "kz" : "Мы обрабатываем ваши данные."
     },
     "widower" : {
         "ru" : "Вдова/Вдовец",

@@ -29,6 +29,16 @@
         "en" : "Привязать карту",
         "kz" : "Привязать карту"
     },
+    "birth_date" : {
+        "ru" : "Дата рождения",
+        "en" : "Birth date",
+        "kz" : "Дата рождения"
+    },
+    "BUSINESS_OWNER" : {
+        "ru" : "Владелец бизнеса",
+        "en" : "Business owner",
+        "kz" : "Владелец бизнеса"
+    },
     "by_pressing_comfirm_button" : {
         "ru" : "Нажимая кнопку «Подтвердить», вы соглашаетесь с",
         "en" : "Нажимая кнопку «Подтвердить», вы соглашаетесь с",
@@ -63,6 +73,11 @@
         "ru" : "Начните писать название вашего города в строку поиска, потом выберите ваш город из предложенного списка ниже.",
         "en" : "Начните писать название вашего города в строку поиска, потом выберите ваш город из предложенного списка ниже.",
         "kz" : "Начните писать название вашего города в строку поиска, потом выберите ваш город из предложенного списка ниже."
+    },
+    "CIVIL_SERVANT" : {
+        "ru" : "Гражданский служащий",
+        "en" : "Civil servant",
+        "kz" : "Гражданский служащий"
     },
     "change_password" : {
         "ru" : "Change password",
@@ -119,6 +134,11 @@
         "en" : "Delete the card?",
         "kz" : "Delete the card?"
     },
+    "DIRECTOR" : {
+        "ru" : "Директор",
+        "en" : "Director",
+        "kz" : "Директор"
+    },
     "divorced" : {
         "ru" : "В разводе",
         "en" : "Divorced",
@@ -159,13 +179,18 @@
         "en" : "E-mail",
         "kz" : "E-mail"
     },
+    "EMPLOYEE" : {
+        "ru" : "Наемный работник",
+        "en" : "Employee",
+        "kz" : "Наемный работник"
+    },
     "family_status" : {
         "ru" : "Семейное положение",
         "en" : "Семейное положение",
         "kz" : "Семейное положение"
     },
     "fio" : {
-        "ru" : "Фамилия Имя",
+        "ru" : "ФИО",
         "en" : "First name last name",
         "kz" : "First name last name"
     },
@@ -389,6 +414,16 @@
         "en" : "Married",
         "kz" : "Married"
     },
+    "MIDDLE_MANAGER" : {
+        "ru" : "Менеджер ср. звена",
+        "en" : "Middle manager",
+        "kz" : "Менеджер ср. звена"
+    },
+    "MILITARY" : {
+        "ru" : "Военный",
+        "en" : "Military",
+        "kz" : "Военный"
+    },
     "next" : {
         "ru" : "Продолжить",
         "en" : "Next",
@@ -509,15 +544,30 @@
         "en" : "Select gender",
         "kz" : "Выберите пол"
     },
+    "select_employment_position" : {
+        "ru" : "Выберите позицию",
+        "en" : "Select employment position",
+        "kz" : "Выберите позицию"
+    },
     "select_marital_status" : {
         "ru" : "Выберите семейное положение",
         "en" : "Select marital status",
         "kz" : "Select marital status"
     },
+    "SERVICES" : {
+        "ru" : "Услуги",
+        "en" : "Services",
+        "kz" : "Услуги"
+    },
     "settings_email_info" : {
         "ru" : "Required for receive a copy of the contract",
         "en" : "Required for receive a copy of the contract",
         "kz" : "Required for receive a copy of the contract"
+    },
+    "sign_in" : {
+        "ru" : "Войти",
+        "en" : "Sign in",
+        "kz" : "Войти"
     },
     "single" : {
         "ru" : "Нет пары",
@@ -589,6 +639,11 @@
         "en" : "Primary",
         "kz" : "Начальное"
     },
+    "PRODUCTION" : {
+        "ru" : "Производство",
+        "en" : "Production",
+        "kz" : "Производство"
+    },
     "profile_history" : {
         "ru" : "История",
         "en" : "History",
@@ -608,6 +663,11 @@
         "ru" : "Настройки",
         "en" : "Settings",
         "kz" : "Баптаулар"
+    },
+    "PUBLIC_SECTOR" : {
+        "ru" : "Публичный сектор",
+        "en" : "Public sector",
+        "kz" : "Публичный сектор"
     },
     "regions" : {
         "ru" : "Регионы",
@@ -648,6 +708,11 @@
         "ru" : "Мы отправили СМС на номер %@ с кодом, введите его для подтверждения",
         "en" : "We've sent an SMS to the number %@. Please type it here",
         "kz" : "Мы отправили СМС на номер %@ с кодом, введите его для подтверждения"
+    },
+    "UNDEFINED" : {
+        "ru" : "Неопределено",
+        "en" : "Undefined",
+        "kz" : "Неопределено"
     },
     "user_form" : {
         "ru" : "Анкета",

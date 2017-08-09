@@ -1,4 +1,14 @@
 {
+    "accepted" : {
+        "ru" : "Одобрено",
+        "en" : "Accepted",
+        "kz" : "Accepted"
+    },
+    "accepted_description_format" : {
+        "ru" : "%@ ₸ на %@ дней",
+        "en" : "%@ ₸ на %@ дней",
+        "kz" : "%@ ₸ на %@ дней"
+    },
     "address" : {
         "ru" : "Адрес",
         "en" : "Address",
@@ -15,9 +25,14 @@
         "kz" : "Номер квартиры"
     },
     "authorization" : {
-        "ru" : "Authorization",
+        "ru" : "Авторизация",
         "en" : "Authorization",
         "kz" : "Authorization"
+    },
+    "back_to_profile" : {
+        "ru" : "Вернуться в профиль",
+        "en" : "Back to profile",
+        "kz" : "Back to profile"
     },
     "balance" : {
         "ru" : "Мой счет",
@@ -80,12 +95,12 @@
         "kz" : "Гражданский служащий"
     },
     "change_password" : {
-        "ru" : "Change password",
+        "ru" : "Сменить пароль",
         "en" : "Change password",
         "kz" : "Change password"
     },
     "change_password_hint" : {
-        "ru" : "Your password must be at least 6 characters long, be of mixed case and also contain a digit or symbol.",
+        "ru" : "Длина пароля - не менее 6 символов, должны быть и заглaвные, и маленькие буквы, а также хотя бы одна цифра.",
         "en" : "Your password must be at least 6 characters long, be of mixed case and also contain a digit or symbol.",
         "kz" : "Your password must be at least 6 characters long, be of mixed case and also contain a digit or symbol."
     },
@@ -114,6 +129,11 @@
         "en" : "Confirm",
         "kz" : "Подтвердить"
     },
+    "crediton_doesnt_have_camera_permissions" : {
+        "ru" : "CreditOn не имеет разрешений для камеры. Включите его в настройках",
+        "en" : "CreditOn doesn't have camera permissions. Please turn it on in Settings -> Privacy",
+        "kz" : "CreditOn doesn't have camera permissions. Please turn it on in Settings -> Privacy"
+    },
     "current_password" : {
         "ru" : "Current password",
         "en" : "Current password",
@@ -128,6 +148,11 @@
         "ru" : "дней",
         "en" : "days",
         "kz" : "days"
+    },
+    "declined" : {
+        "ru" : "Отказано",
+        "en" : "Declined",
+        "kz" : "Declined"
     },
     "delete_card_question" : {
         "ru" : "Удалить карту?",
@@ -218,6 +243,11 @@
         "ru" : "Loans",
         "en" : "Loans",
         "kz" : "Loans"
+    },
+    "loan_declined_description" : {
+        "ru" : "В данный момент мы не можем предоставить вам кредит, пожалуйста, повторите позднее",
+        "en" : "В данный момент мы не можем предоставить вам кредит, пожалуйста, повторите позднее",
+        "kz" : "В данный момент мы не можем предоставить вам кредит, пожалуйста, повторите позднее"
     },
     "location" : {
         "ru" : "Местоположение",
@@ -379,6 +409,11 @@
         "en" : "Job phone",
         "kz" : "Job phone"
     },
+    "failed_to_bind_a_card" : {
+        "ru" : "Не удалось привязать карту",
+        "en" : "Failed to bind a card",
+        "kz" : "Не удалось привязать карту"
+    },
     "female" : {
         "ru" : "Женский",
         "en" : "Female",
@@ -423,6 +458,71 @@
         "ru" : "Военный",
         "en" : "Military",
         "kz" : "Военный"
+    },
+    "month1_guilty" : {
+        "ru" : "января",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month2_guilty" : {
+        "ru" : "февраля",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month3_guilty" : {
+        "ru" : "марта",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month4_guilty" : {
+        "ru" : "апреля",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month5_guilty" : {
+        "ru" : "мая",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month6_guilty" : {
+        "ru" : "июня",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month7_guilty" : {
+        "ru" : "июля",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month8_guilty" : {
+        "ru" : "августа",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month9_guilty" : {
+        "ru" : "сентября",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month10_guilty" : {
+        "ru" : "октября",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month11_guilty" : {
+        "ru" : "ноября",
+        "en" : "января",
+        "kz" : "января"
+    },
+    "month12_guilty" : {
+        "ru" : "декабря",
+        "en" : "декабря",
+        "kz" : "декабря"
+    },
+    "need_return" : {
+        "ru" : "Нужно вернуть",
+        "en" : "Need return",
+        "kz" : "Need return"
     },
     "next" : {
         "ru" : "Продолжить",
@@ -559,6 +659,11 @@
         "en" : "Services",
         "kz" : "Услуги"
     },
+    "settings" : {
+        "ru" : "Настройки",
+        "en" : "Settings",
+        "kz" : "Настройки"
+    },
     "settings_email_info" : {
         "ru" : "Required for receive a copy of the contract",
         "en" : "Required for receive a copy of the contract",
@@ -624,13 +729,18 @@
         "en" : "Pin is needed for password recovery, \nplease remember it well",
         "kz" : "Pin is needed for password recovery, \nplease remember it well"
     },
+    "please_send_photo_to_continue" : {
+        "ru" : "Для продолжения отправьте ваше фото",
+        "en" : "Для продолжения отправьте ваше фото",
+        "kz" : "Для продолжения отправьте ваше фото"
+    },
     "please_wait" : {
         "ru" : "Пожалуйста подождите",
         "en" : "Please wait",
         "kz" : "Пожалуйста подождите"
     },
     "phone_number" : {
-        "ru" : "Phone number",
+        "ru" : "Номер телефона",
         "en" : "Phone number",
         "kz" : "Phone number"
     },
@@ -669,6 +779,11 @@
         "en" : "Public sector",
         "kz" : "Публичный сектор"
     },
+    "refund_amount" : {
+        "ru" : "Сумма возврата",
+        "en" : "Refund amount",
+        "kz" : "Refund amount"
+    },
     "regions" : {
         "ru" : "Регионы",
         "en" : "Regions",
@@ -699,6 +814,36 @@
         "en" : "For restore Pincode you need call for number 2590",
         "kz" : "Для восстановления пин-код пощвонить на номер 2590"
     },
+    "return_description_format" : {
+        "ru" : "Нужно вернуть %@ ₸ до %@",
+        "en" : "Нужно вернуть %@ ₸ до %@",
+        "kz" : "Нужно вернуть %@ ₸ до %@"
+    },
+    "take_a_picture_of_your_national_id" : {
+        "ru" : "Сфотографируйте удостоверение",
+        "en" : "Take a picture of your national id",
+        "kz" : "Take a picture of your national id"
+    },
+    "take_a_picture_of_your_national_id_from_behind" : {
+        "ru" : "Сфотографируйте удостоверение с другой стороны",
+        "en" : "Take a picture of your national id from behind",
+        "kz" : "Take a picture of your national id from behind"
+    },
+    "take_a_picture_of_your_face" : {
+        "ru" : "Сфотограйфируйте свое лицо в анфас",
+        "en" : "Сфотограйфируйте свое лицо в анфас",
+        "kz" : "Сфотограйфируйте свое лицо в анфас"
+    },
+    "take_a_picture_of_your_face_profile" : {
+        "ru" : "Сфотограйфируйте свое лицо в профиль",
+        "en" : "Сфотограйфируйте свое лицо в профиль",
+        "kz" : "Сфотограйфируйте свое лицо в профиль"
+    },
+    "take_pictures" : {
+        "ru" : "Сделать фото",
+        "en" : "Take pictures",
+        "kz" : "Take pictures"
+    },
     "till_date_format" : {
         "ru" : "до %@",
         "en" : "till %@",
@@ -714,10 +859,20 @@
         "en" : "Undefined",
         "kz" : "Неопределено"
     },
+    "unable_to_capture_media" : {
+        "ru" : "Не получилось сделать фото",
+        "en" : "Unable to capture media",
+        "kz" : "Не получилось сделать фото"
+    },
     "user_form" : {
         "ru" : "Анкета",
         "en" : "User form",
         "kz" : "Анкета"
+    },
+    "year_short" : {
+        "ru" : "г.",
+        "en" : "y.",
+        "kz" : "y."
     },
     "yes" : {
         "ru" : "Да",
@@ -738,6 +893,11 @@
         "ru" : "Мы обрабатываем ваши данные.",
         "en" : "Мы обрабатываем ваши данные.",
         "kz" : "Мы обрабатываем ваши данные."
+    },
+    "we_have_reviewed_your_data" : {
+        "ru" : "Мы пересмотрели ваши данные и готовы предложить",
+        "en" : "Мы пересмотрели ваши данные и готовы предложить",
+        "kz" : "Мы пересмотрели ваши данные и готовы предложить"
     },
     "widower" : {
         "ru" : "Вдова/Вдовец",

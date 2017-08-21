@@ -729,6 +729,11 @@
         "en" : "Services",
         "kz" : "Услуги"
     },
+    "session_is_over" : {
+        "ru" : "Сессия закрыта. Пожалуйста, авторизуйтесь заново",
+        "en" : "Сессия закрыта. Пожалуйста, авторизуйтесь заново",
+        "kz" : "Сессия закрыта. Пожалуйста, авторизуйтесь заново"
+    },
     "settings" : {
         "ru" : "Настройки",
         "en" : "Settings",
@@ -778,6 +783,11 @@
         "ru" : "The password must be at least 6 characters long,\nhow one capital letter and number",
         "en" : "The password must be at least 6 characters long,\nhow one capital letter and number",
         "kz" : "The password must be at least 6 characters long,\nhow one capital letter and number"
+    },
+    "password_reset" : {
+        "ru" : "Сброс пароля",
+        "en" : "Password reset",
+        "kz" : "Password reset"
     },
     "personal_data" : {
         "ru" : "Личная информация",
@@ -829,6 +839,11 @@
         "en" : "Production",
         "kz" : "Производство"
     },
+    "profile_n_doesnt_exist" : {
+        "ru" : "Профайла с номером %@ не существует",
+        "en" : "Profile %@ doesn't exist",
+        "kz" : "Profile %@ doesn't exist"
+    },
     "profile_history" : {
         "ru" : "История",
         "en" : "History",
@@ -870,7 +885,7 @@
         "kz" : "Зарегистрировться"
     },
     "registration" : {
-        "ru" : "Registration",
+        "ru" : "Регистрация",
         "en" : "Registration",
         "kz" : "Registration"
     },
@@ -923,6 +938,11 @@
         "ru" : "Сделать фото",
         "en" : "Take pictures",
         "kz" : "Take pictures"
+    },
+    "terms_and_conditions" : {
+        "ru" : "Правила пользования",
+        "en" : "Terms and Conditions",
+        "kz" : "Terms and Conditions"
     },
     "till_date_format" : {
         "ru" : "до %@",

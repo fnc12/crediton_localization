@@ -304,6 +304,11 @@
         "en" : "I loan",
         "kz" : "я занимаю"
     },
+    "incorrect_phone" : {
+        "ru" : "Неверный номер",
+        "en" : "Invalid cell phone number",
+        "kz" : "Invalid cell phone number"
+    },
     "input_address" : {
         "ru" : "Введите адрес",
         "en" : "Input address",
@@ -505,9 +510,9 @@
         "kz" : "Женский"
     },
     "forgot_password_hint" : {
-        "ru" : "Для востановления пароля введите ваш номер телефона и пин код",
-        "en" : "Для востановления пароля введите ваш номер телефона и пин код",
-        "kz" : "Для востановления пароля введите ваш номер телефона и пин код"
+        "ru" : "Для востановления пароля введите ваш номер телефона",
+        "en" : "Для востановления пароля введите ваш номер телефона",
+        "kz" : "Для востановления пароля введите ваш номер телефона"
     },
     "forgot_password" : {
         "ru" : "Забыли пароль",
@@ -830,9 +835,19 @@
         "kz" : "Password has been changed!"
     },
     "password_hint" : {
-        "ru" : "The password must be at least 6 characters long,\nhow one capital letter and number",
-        "en" : "The password must be at least 6 characters long,\nhow one capital letter and number",
-        "kz" : "The password must be at least 6 characters long,\nhow one capital letter and number"
+        "ru" : "Пароль должен содержать:\n  6 символов\n  содержать одну цифру\n  содержать одну заглавную букву",
+        "en" : "Пароль должен содержать:\n  6 символов\n  содержать одну цифру\n  содержать одну заглавную букву",
+        "kz" : "Пароль должен содержать:\n  6 символов\n  содержать одну цифру\n  содержать одну заглавную букву"
+    },
+    "password_is_required" : {
+        "ru" : "Введите пароль",
+        "en" : "Password is required",
+        "kz" : "Password is required"
+    },
+    "password_invalid" : {
+        "ru" : "Пароль должен содержать минимум 6\nсимволов, 1 заглавную букву и одну цифру",
+        "en" : "Пароль должен содержать минимум 6\nсимволов, 1 заглавную букву и одну цифру",
+        "kz" : "Пароль должен содержать минимум 6\nсимволов, 1 заглавную букву и одну цифру"
     },
     "password_reset" : {
         "ru" : "Сброс пароля",
@@ -878,6 +893,11 @@
         "ru" : "Номер телефона",
         "en" : "Phone number",
         "kz" : "Phone number"
+    },
+    "phone_required" : {
+        "ru" : "Введите телефон",
+        "en" : "Cell phone number is required",
+        "kz" : "Cell phone number is required"
     },
     "primary" : {
         "ru" : "Начальное",
@@ -1003,6 +1023,16 @@
         "ru" : "Мы отправили СМС на номер %@ с кодом, введите его для подтверждения",
         "en" : "We've sent an SMS to the number %@. Please type it here",
         "kz" : "Мы отправили СМС на номер %@ с кодом, введите его для подтверждения"
+    },
+    "try_again_in_n_minutes_format" : {
+        "ru" : "Попробуйте повторить попытку через %@ минут.",
+        "en" : "Попробуйте повторить попытку через %@ минут.",
+        "kz" : "Попробуйте повторить попытку через %@ минут."
+    },
+    "n_tries_left_format" : {
+        "ru" : "Осталось попыток: %@",
+        "en" : "%@ tries left",
+        "kz" : "%@ tries left"
     },
     "UNDEFINED" : {
         "ru" : "Неопределено",

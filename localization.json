@@ -179,6 +179,11 @@
         "en" : "Continue",
         "kz" : "Continue"
     },
+    "contract_number" : {
+        "ru" : "Номер договора",
+        "en" : "Номер договора",
+        "kz" : "Номер договора"
+    },
     "crediton_doesnt_have_camera_permissions" : {
         "ru" : "CreditOn не имеет разрешений для камеры. Включите его в настройках",
         "en" : "CreditOn doesn't have camera permissions. Please turn it on in Settings -> Privacy",

@@ -510,7 +510,7 @@
         "kz" : "Войти"
     },
     "logout_from_account" : {
-        "ru" : "Logout from account",
+        "ru" : "Выйти из аккаунта",
         "en" : "Logout from account",
         "kz" : "Logout from account"
     },
@@ -775,7 +775,7 @@
         "kz" : "Salary"
     },
     "save" : {
-        "ru" : "Save",
+        "ru" : "Сохр.",
         "en" : "Save",
         "kz" : "Save"
     },
@@ -830,7 +830,7 @@
         "kz" : "Настройки"
     },
     "settings_email_info" : {
-        "ru" : "Required for receive a copy of the contract",
+        "ru" : "Нужен для получения копии договора",
         "en" : "Required for receive a copy of the contract",
         "kz" : "Required for receive a copy of the contract"
     },
@@ -1004,10 +1004,20 @@
         "en" : "Registration",
         "kz" : "Registration"
     },
+    "renew_info" : {
+        "ru" : "Стоймость продления, зависит от суммы погашения",
+        "en" : "Стоймость продления, зависит от суммы погашения",
+        "kz" : "Стоймость продления, зависит от суммы погашения"
+    },
     "renew_loan" : {
         "ru" : "Продлить займ",
         "en" : "Продлить займ",
         "kz" : "Продлить займ"
+    },
+    "renewal" : {
+        "ru" : "Продление",
+        "en" : "Renewal",
+        "kz" : "Renewal"
     },
     "restore_password" : {
         "ru" : "Восстановить пароль",

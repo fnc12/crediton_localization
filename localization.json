@@ -214,6 +214,11 @@
         "en" : "Declined",
         "kz" : "Declined"
     },
+    "delay" : {
+        "ru" : "просрочка",
+        "en" : "просрочка",
+        "kz" : "просрочка"
+    },
     "delete_card_question" : {
         "ru" : "Удалить карту?",
         "en" : "Delete the card?",

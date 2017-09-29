@@ -891,7 +891,7 @@
     },
     "server_invalid_token_error" : {
         "ru" : "Идентификатор для токена не найден.",
-        "en" : "Идентификатор для токена не найден.",
+        "en" : "Identifier for token not found.",
         "kz" : "Идентификатор для токена не найден."
     },
     "session_is_over" : {

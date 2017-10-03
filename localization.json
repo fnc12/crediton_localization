@@ -200,7 +200,7 @@
         "kz" : "CreditOn doesn't have camera permissions. Please turn it on in Settings -> Privacy"
     },
     "current_password" : {
-        "ru" : "Current password",
+        "ru" : "Нынешний пароль",
         "en" : "Current password",
         "kz" : "Current password"
     },

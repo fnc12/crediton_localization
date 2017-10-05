@@ -974,6 +974,11 @@
         "en" : "Password reset",
         "kz" : "Password reset"
     },
+    "passwords_do_not_match" : {
+        "ru" : "Пароли не совпадают",
+        "en" : "Passwords do not match",
+        "kz" : "Passwords do not match"
+    },
     "personal_data" : {
         "ru" : "Личная информация",
         "en" : "Personal info",

@@ -484,6 +484,11 @@
         "en" : "ИИН",
         "kz" : "ЖСН"
     },
+    "language" : {
+        "ru" : "Язык",
+        "en" : "Language",
+        "kz" : "Тілі"
+    },
     "last_and_first_name" : {
         "ru" : "ФИО",
         "en" : "Name",

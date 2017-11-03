@@ -254,6 +254,11 @@
         "en" : "Divorced",
         "kz" : "Ажырасқан"
     },
+    "do_you_wanna_use_touch_id" : {
+        "ru" : "Вы хотите использовать Touch ID для аутентификации?",
+        "en" : "Do you want to use Touch ID for authentification?",
+        "kz" : "Сіз аутентификация үшін Touch ID қолданғыңыз келеді ме?"
+    },
     "done" : {
         "ru" : "Готово",
         "en" : "Done",
@@ -333,6 +338,11 @@
         "ru" : "История",
         "en" : "History",
         "kz" : "Тарих"
+    },
+    "hold_filger_to_authentificate" : {
+        "ru" : "Приложите палец для аутентификации",
+        "en" : "Hold finger to authentificate",
+        "kz" : "Аутентификация үшін саусағыңызды басыңыз"
     },
     "home_number" : {
         "ru" : "Номер дома",
@@ -1193,6 +1203,11 @@
         "ru" : "Мы отправили СМС на номер %@ с кодом, введите его для подтверждения",
         "en" : "We've sent an SMS to the number %@. Please type it here",
         "kz" : "Біз нөміріңізге СМС-пен %@ код жібердік, растау үшін оны енгізіңіз. "
+    },
+    "touch_id" : {
+        "ru" : "Touch ID",
+        "en" : "Touch ID",
+        "kz" : "Touch ID"
     },
     "try_again_in_n_minutes_format" : {
         "ru" : "Попробуйте повторить попытку через %@ минут.",
